@@ -1,0 +1,34 @@
+.comment{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    max-width: 500px;
+    height: 145px;
+    background: white;
+}
+.button{
+    width: 25px;
+    height: 25px;
+}
+button{
+    background: white;
+    border-style: none;
+}
+.CommentStyle{
+    margin-left: 10px;
+    width: 95%;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.CommentStyle h4{
+    font-size: 0.9em;
+    font-family: cursive;
+}
+.CommentStyle h5{
+    color: #858383;
+}
+.center{
+    text-align: center;
+}
